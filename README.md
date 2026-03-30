@@ -10,7 +10,7 @@ I work on **personalization for video and image generation** - building generati
 
 Personalization sits at a difficult intersection: the model must encode identity precisely enough to be consistent, yet flexibly enough not to overfit. In video generation, this is harder still — identity must remain coherent across frames, through motion, lighting changes, and temporal transitions, without sacrificing the expressiveness of the underlying generative model. My work focuses on how identity and preference signals can be represented, injected, and preserved in diffusion-based video generation pipelines.
 
-More broadly, I'm interested in **controllable generation** — making large generative models responsive to fine-grained user intent, beyond simple text prompts.
+More broadly, I'm interested in **controllable generation** - making large generative models responsive to fine-grained user intent, beyond simple text prompts.
 
 Previously: multimodal video understanding (long-form temporal reasoning, VideoRAG), diffusion model geometry (optimal transport-based sampling), and reinforcement learning for optimal execution in financial markets (BSc thesis).
 
@@ -18,7 +18,7 @@ Previously: multimodal video understanding (long-form temporal reasoning, VideoR
 
 ### Research
 
-**Calibri: Enhancing Video Generation Models** — *CVPR 2026*  
+**Calibri: Enhancing Video Generation Models** - *CVPR 2026*  
 Research on improving video generation quality and consistency. Conducted within the video generation team.
 
 **Personalization for Video and Image Generation** — *ongoing*  
@@ -30,7 +30,7 @@ Evaluated and extended VideoMamba and Qwen2-VL on Video-MME and EgoSchema benchm
 **OT-Based Truncation in Denoising Diffusion Models**  
 Proposed a Neural Optimal Transport framework to accelerate DDPM sampling by truncating high-dimensional latent distributions. Comparative study of truncation strategies across GANs, VAEs, and diffusion models.
 
-**Reinforcement Learning for Optimal Execution** — *BSc thesis, HSE*  
+**Reinforcement Learning for Optimal Execution** - *BSc thesis, HSE*  
 Designed and trained DQN and Double DQN agents for time-constrained order execution. Benchmarked against classical TWAP/VWAP strategies.
 
 ---
