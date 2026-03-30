@@ -52,7 +52,7 @@ Designed and trained DQN and Double DQN agents for time-constrained order execut
 
 ### Experience
 
-- **Research Scientist**, Video Generation Team, 2024–present
+- **Research Scientist**, Video Generation Team, 2025–present
 - **Data Scientist — Risk & Credit**, PLATA, Sep 2024–Feb 2025
 - **ML Specialist**, Diotech, Jun 2023–Feb 2024
 
