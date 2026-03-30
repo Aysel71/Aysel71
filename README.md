@@ -1,6 +1,6 @@
 # Aysel Mirzoeva
 
-**Research Scientist — Video Generation & Personalization**  
+**Research Scientist - Video Generation & Personalization**  
 MSc Data Science, Machine Learning  & Computer Science  · CVPR 2026  
 Seeking a PhD position in machine learning / computer vision
 
