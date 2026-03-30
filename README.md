@@ -16,7 +16,6 @@ Seeking a PhD position in machine learning / computer vision.
 ### Research
 
 | | |
-|---|---|
 | **Calibri: Enhancing Video Generation Models** | CVPR 2026 |
 | Video QA with Long-Term Temporal Understanding | Multimodal Lab |
 | Making a Content more personalised | 
